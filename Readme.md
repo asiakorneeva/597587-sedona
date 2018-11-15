@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Анастасия Корнеева](https://up.htmlacademy.ru/htmlcss/23/user/597587).
-* Наставник: `Алина Ваниева`.
+* Наставник: [Алина Ваниева](https://htmlacademy.ru/profile/alivander).
 
 ---
 
